@@ -1,9 +1,5 @@
 # Student Marks Predictor Web Application
 
-<p align="center">
-  <img src="static/images/app_screenshot.png" alt="App Screenshot">
-</p>
-
 Welcome to the Student Marks Predictor web application repository! This application lets you predict student marks using a machine learning algorithm, all wrapped up in a sleek Flask-powered frontend. Whether you're a frontend enthusiast or a machine learning aficionado, this project showcases the power of collaboration between both worlds.
 
 ## Features
